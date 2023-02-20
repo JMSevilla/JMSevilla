@@ -6,7 +6,7 @@ JM Sevilla</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.novare.com.hk/](https://www.wtwco.com/en-US)" target="blank">Willis Towers Watsons</a>
+- 🔭 I’m currently working in <a href="https://www.wtwco.com/en-US" target="blank">Willis Towers Watsons</a>
 
 - 🌱 I’m currently Working as Senior Technical Lead and mostly interacting <br/> with different kinds of programming languages
 

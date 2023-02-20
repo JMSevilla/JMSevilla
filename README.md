@@ -8,7 +8,7 @@ JM Sevilla</a></h1>
 
 - 🔭 I’m currently working in <a href="https://www.wtwco.com/en-US" target="blank">Willis Towers Watsons</a>
 
-- 🌱 I’m currently Working as Senior Technical Lead and mostly interacting <br/> with different kinds of programming languages
+- 🌱 I’m currently Working as <strong>Senior Technical Lead</strong> and mostly interacting <br/> with different kinds of programming languages
 
 - 🤝 I’m available for freelancing.
 

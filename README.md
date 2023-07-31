@@ -16,7 +16,7 @@ JM Sevilla</a></h1>
 
 - 💬 Ask me about technical stuffs
 
-- 📫 How to reach me **miggysvll@gmail.com**
+- 📫 How to reach me **devopsbyte60@gmail.com**
 
 - 📄 Know about my experiences <a href="https://jmsevilla.vercel.app" target="blank">Portfolio and Resume</a>
 <br/>
